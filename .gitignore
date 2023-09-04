@@ -1,0 +1,9 @@
+.cmake
+.ninja*
+.idea
+CMakeCache.txt
+CMakeFiles
+Testing
+build.ninja
+cmake_install.cmake
+libcsqlite.a
